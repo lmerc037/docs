@@ -34,9 +34,15 @@ Secondary color: `#2980b9`
 Layout:
 
 Max-width for main content: `1200px;`
+
 Margin between cards: `2em;`
+
 Box shadow for cards: `rgb(0 0 0 / 22%) 0px 4px 9px 6px;`
+
 Border radius for cards: `10px;`
+
 Width for skill items:`300px;`
+
 Margin for skill items: `20px;`
+
 
