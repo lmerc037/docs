@@ -6,13 +6,19 @@ Headings:
 ### h3: font-size: 1.2em; font-weight: bold; margin-bottom: 0.5em;
 
 
-Paragraphs: `font-size: 1em; line-height: 1.5; margin-bottom: 1em;`
 
 
-Links: `color: #054d92; text-decoration: none;`
+## Paragraphs: 
+
+`font-size: 1em; line-height: 1.5; margin-bottom: 1em;`
 
 
-Buttons:
+## Links: 
+
+`color: #054d92; text-decoration: none;`
+
+
+## Buttons:
 
 `.btn : display: inline-block; font-size: 1rem; padding: 0.375rem 0.75rem; border-radius: 0.25rem;`
 
@@ -22,7 +28,7 @@ Buttons:
 
 
 
-Colors:
+## Colors:
 
 Primary color: `#054d92`
 
@@ -31,9 +37,9 @@ Secondary color: `#2980b9`
 `Background color for header: linear-gradient(0deg, rgb(44 44 44 / 82%), rgb(0 78 149));`
 
 
-Layout:
+## Layout:
 
-Max-width for main content: `1200px;`
+Max-width for main content: `1200px;` 
 
 Margin between cards: `2em;`
 
